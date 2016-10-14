@@ -37,4 +37,4 @@ Please, refer to the file `README/README.txt` for further information on usage a
 
 ## Contact 
 
-Any questions can be directed to Aasa Feragen: aasa@di.ku.dk
+Any questions can be directed to Aasa Feragen: aasa [at] di.ku.dk
